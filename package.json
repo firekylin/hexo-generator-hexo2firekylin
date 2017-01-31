@@ -1,0 +1,28 @@
+{
+  "name": "hexo-generator-hexo2firekylin",
+  "version": "0.1.0",
+  "description": "hexo plugin to export hexo into firekylin or ghost",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizheming/hexo-generator-hexo2firekylin.git"
+  },
+  "keywords": [
+    "hexo",
+    "plugin",
+    "generator",
+    "firekylin",
+    "ghost",
+    "export",
+    "import"
+  ],
+  "author": "lizheming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lizheming/hexo-generator-hexo2firekylin/issues"
+  },
+  "homepage": "https://github.com/lizheming/hexo-generator-hexo2firekylin#readme"
+}
